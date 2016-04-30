@@ -226,7 +226,7 @@ function create_config( )
     "leave_ban",
     "admin"
     },
-    sudo_users = {134618808,212397342,tonumber(our_id)},--Sudo users
+    sudo_users = {196560568,212397342,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[CeWeR v2 - Open Source
