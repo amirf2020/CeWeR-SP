@@ -2,7 +2,7 @@
 
 [![Join the chat at https://gitter.im/CeWeR/CeWeR-TG](https://badges.gitter.im/CeWeR/CeWeR-TG.svg)](https://gitter.im/CeWeR/CeWeR-TG?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-**An advanced and powerful administration bot based on [yagop/telegram-bot](https://github.com/yagop/telegram-bot) licensed under the [GNU General Public License](https://github.com/CeWeR/CeWeR-TG/blob/master/LICENSE)**.
+**An advanced and powerful administration bot based on [yagop/telegram-bot](https://github.com/yagop/telegram-bot) licensed under the [GNU General Public License](https://github.com/amirf2020/CeWeR-SP/blob/master/LICENSE)**.
 
 # Bot For Test
 
@@ -444,8 +444,8 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/CeWeR/CeWeR-TG.git
-cd CeWeR-TG
+git clone https://github.com/amirf2020/CeWeR-SP
+cd CeWeR-SP
 chmod +x launch.sh
 ./launch.sh install
 ./launch.sh # Enter a phone number & confirmation code.
@@ -485,7 +485,7 @@ Join our bot development group by sending `/join 3494848` to [@CeWeR_TG](https:/
 
 For managing [@CeWeR_TG](https://telegram.me/CeWeR_TG) on Telegram.
 
-[@CeWeR_TFB](https://telegram.me/CeWeR_TFB)
+[@alfroshotak](https://telegram.me/alfrohotak)
 
 For graphic designs.
 
