@@ -111,5 +111,5 @@ else
     exit 1
   fi
 
-  ./tg/bin/telegram-cli -k ./tg/tg-server.pub -s ./bot/CeWeRbot.lua -l 1 -E $@
+  ./tg/bin/telegram-cli -k ./tg/tg-server.pub -s ./bot/CeWeRbot.lua.lua -l 1 -E $@
 fi
